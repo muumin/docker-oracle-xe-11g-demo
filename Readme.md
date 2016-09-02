@@ -1,8 +1,9 @@
 # docker oracleのお試し
 
-[docker-oracle-xe-11g](https://github.com/wnameless/docker-oracle-xe-11g)起動のお試し。
+[docker-oracle-xe-11g](https://github.com/wnameless/docker-oracle-xe-11g)の起動のお試し。
 
-初期化でtestスキーマを作成している。
+* testユーザを作成
+* testスキーマを作成
 
 ## 起動
 
